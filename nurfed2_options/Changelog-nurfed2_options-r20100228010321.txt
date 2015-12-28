@@ -1,0 +1,24 @@
+Apoco:
+	- lk
+	Signed-off-by: Apoco <Apoco]a|t[nurfed[d|o|t]com>
+	- toc change
+	Signed-off-by: Apoco <Apoco]a|t[Nurfed[d|o|t]com>
+	- Nurfed2 Options Update
+	Signed-off-by: Apoco <Apoco]a|t[nurfed[d|o|t]com>
+	- Added hide cast bar support.
+	Signed-off-by: Apoco <Apoco]a|t[nurfed[d|o|t]com>
+	- N2-Options:  Update for mostly Addons menu.
+	Signed-off-by: Apoco <Apoco]a|t[nurfed[d|o|t]com>
+	- Multispec initial settings fixes
+	Signed-off-by: Apoco <Apoco]a|t[nurfed[d|o|t]com>
+	- Fixed some possible bugs
+	- Fixed:
+	Not being able to add macros the same name as a spell.
+	  Binding Text Not Showing up on actionbars(was a 2 part fix)
+	- Bindings Bug Fix
+	Signed-off-by: Apoco <Apoco]a|t[nurfed[d|o|t]com>
+	- Test
+	Signed-off-by: Apoco <Apoco]a|t[nurfed[d|o|t]com>
+	- Init Commit
+	Signed-off-by: Apoco <Apoco]a|t[nurfed[d|o|t]com>
+	- asdf

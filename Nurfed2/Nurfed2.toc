@@ -1,0 +1,12 @@
+## Interface: 30300
+## Title: .|cff3300D2NurfedUI|r|cff3355FD 2|r |cffD23322-Core-|r
+## Author: Apoco, Tivoli  http://www.nurfed.com
+## SavedVariablesPerCharacter: Nurfed2DB
+## X-Website: http://www.nurfedui.net
+## X-Curse-Packaged-Version: r20100308041333
+## X-Curse-Project-Name: Nurfed2
+## X-Curse-Project-ID: nurfed2
+## X-Curse-Repository-ID: wow/nurfed2/mainline
+
+Libs\Core.lua
+Nurfed.lua

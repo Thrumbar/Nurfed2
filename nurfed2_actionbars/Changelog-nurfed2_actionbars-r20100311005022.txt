@@ -1,0 +1,47 @@
+Apoco:
+	- Added 'visibility' option.  You can now set states for when the bar shows.  BE CAREFUL, MOST USERS JUST WANT IT TO SAY 'show'
+	Signed-off-by: Apoco <Apoco]a|t[Nurfed[d|o|t]com>
+	- Added Hide Macro Text Option, fixed mount icon issues.
+	Signed-off-by: Apoco <Apoco]a|t[Nurfed[d|o|t]com>
+	- added clickthrough ability, and changed the options a bit, should be easier to edit now.
+	Signed-off-by: Apoco <Apoco]a|t[Nurfed[d|o|t]com>
+	- toc change
+	Signed-off-by: Apoco <Apoco]a|t[Nurfed[d|o|t]com>
+	- Fixed problem with old settings in actionbars 'StateHandler'
+	Signed-off-by: Apoco <Apoco]a|t[Nurfed[d|o|t]com>
+	- Vehicle Updates.
+	Signed-off-by: Apoco <Apoco]a|t[Nurfed[d|o|t]com>
+	- State Fixes, Possession Fix. Give feedback
+	Signed-off-by: Apoco <Apoco]a|t[Nurfed[d|o|t]com>
+	- Test Icons
+	- Fixed mount icon crashing (please report success)
+	Fixed re-populating default bar after removing it.
+	-- You will now start off with no bars, and you must create them.
+	-- Code Cleanup some.
+	
+	Signed-off-by: Apoco <Apoco]a|t[Nurfed[d|o|t]com>
+	- Fixed companion icons and pickups.
+	Signed-off-by: Apoco <Apoco]a|t[Nurfed[d|o|t]com>
+	- I must have been drunk fixes.
+	Signed-off-by: Apoco <Apoco]a|t[Nurfed[d|o|t]com>
+	- Other bug fix
+	Signed-off-by: Apoco <Apoco]a|t[Nurfed[d|o|t]com>
+	- Re-added delete button, and a few other minor fixes that were lost.
+	Signed-off-by: Apoco <Apoco]a|t[Nurfed[d|o|t]com>
+	- New Vehicle/Possess states/code, should fix some of the issues.
+	Signed-off-by: Apoco <Apoco]a|t[Nurfed[d|o|t]com>
+	- ActionBars Update
+	Signed-off-by: Apoco <Apoco]a|t[Nurfed[d|o|t]com>
+	- Added delete button
+	Signed-off-by: Apoco <Apoco]a|t[Nurfed[d|o|t]com>
+	- Stance Vertical Fix
+	Signed-off-by: Apoco <Apoco]a|t[Nurfed[d|o|t]com>
+	- Fixed binding text not being shown.
+	Signed-off-by: Apoco <Apoco]a|t[Nurfed[d|o|t]com>
+	- Update
+	- Column Fix
+	Signed-off-by: Apoco <Apoco]a|t[Nurfed[d|o|t]com>
+	- minor bug fix
+	Signed-off-by: Apoco <Apoco]a|t[Nurfed[d|o|t]com>
+	- init commit
+	Signed-off-by: Apoco <Apoco]a|t[Nurfed[d|o|t]com>

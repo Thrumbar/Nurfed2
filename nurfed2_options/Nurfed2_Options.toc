@@ -1,0 +1,13 @@
+## Interface: 30300
+## Title: .|cff3300D2NurfedUI|r|cff3355FD 2|r |cffD23355-Options-|r
+## Author: Apoco, Tivoli  http://www.nurfed.com
+## SavedVariablesPerCharacter:
+## Dependencies: Nurfed2, Ace3
+## LoadOnDemand: 1
+## X-Website: http://www.nurfedui.net
+## X-Curse-Packaged-Version: r20100228010321
+## X-Curse-Project-Name: Nurfed2_Options
+## X-Curse-Project-ID: nurfed2_options
+## X-Curse-Repository-ID: wow/nurfed2_options/mainline
+Panels.lua
+Templates.lua

@@ -1,0 +1,6 @@
+Apoco:
+	- toc change
+	Signed-off-by: Apoco <Apoco]a|t[Nurfed[d|o|t]com>
+	- Fixed boolean settings not saving through reloads.
+	- init commit
+	Signed-off-by: Apoco <Apoco]a|t[Nurfed[d|o|t]com>

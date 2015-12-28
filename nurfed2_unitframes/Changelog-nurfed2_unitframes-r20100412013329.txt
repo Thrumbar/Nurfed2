@@ -1,0 +1,93 @@
+Apoco:
+	- added Happiness support.
+	Signed-off-by: Apoco <Apoco]at[Nurfed[dot]com>
+	- fix
+	Signed-off-by: Apoco <Apoco]at[Nurfed[dot]com>
+	- fix
+	Signed-off-by: Apoco <Apoco]at[Nurfed[dot]com>
+	- ..
+	- Added "Hide Model" option.  More to come. Added basePosition to debuff layout templates.  Have fun with 1 line debuffs, regardless of where you want them.
+	Signed-off-by: Apoco <Apoco]at[Nurfed[dot]com>
+	- Added "Hide Model" option.  More to come.
+	Added basePosition to debuff layout templates.  Have fun with 1 line debuffs, regardless of where you want them.
+	
+	Signed-off-by: Apoco <Apoco]at[Nurfed[dot]com>
+	- a
+	Signed-off-by: Apoco <Apoco]at[Nurfed[dot]com>
+	- "or not self.buff" fixes focus debuff issues.
+	Signed-off-by: Apoco <Apoco]at[Nurfed[dot]com>
+	- "or not self.buff" fixes focus debuff issues.
+	Signed-off-by: Apoco <Apoco]at[Nurfed[dot]com>
+	- Minor update, few new features, fixed switching back to default layout causing issues.
+	Signed-off-by: Apoco <Apoco]at[Nurfed[dot]com>
+	- Major Settings Update, fixed gliding/fading.
+	Removed: .ani, .fadeTime
+	These are now in the settings options.  Fixed other shit too.
+	Layout authors:  You need to PROPERLY ALTER SETTINGS IN N2UF!  Do not FORCE users to use your settings!
+	Signed-off-by: Apoco <Apoco]at[Nurfed[dot]com>
+	- 02/27::[19:51:55] <Sebastian_> When I try to raid me some hardcore pussy, I wipe out after 17 seconds :/
+	Signed-off-by: Apoco <Apoco]at[Nurfed[dot]com>
+	- Status fix.
+	- Cindered Update.
+	Signed-off-by: Apoco <Apoco]at[Nurfed[dot]com>
+	- Fixed custom colors acting funny.
+	- fix for party frames.
+	- Made predicted health run a lot slower to lower system usage until it gets fixed.
+	- 526 lines added, 155 lines deleted.  wow.  go me!
+	Started work on the config.  Added tons of new settings.  Have fun.
+	
+	Signed-off-by: Apoco <Apoco]at[Nurfed[dot]com>
+	- toc change
+	Signed-off-by: Apoco <Apoco]a|t[Nurfed[d|o|t]com>
+	- l
+	- Fixed default layout reverting option thing.
+	Signed-off-by: Apoco <Apoco]at[Nurfed[dot]com>
+	- $class,etc fix.
+	- Bug fix with GetDetailedThreat
+	Signed-off-by: Apoco <Apoco]at[Nurfed[dot]com>
+	- Added more $xxx stuff.  Added bigDebuffScale'age.
+	Signed-off-by: Apoco <Apoco]at[Nurfed[dot]com>
+	- Few changes.
+	Signed-off-by: Apoco <Apoco]at[Nurfed[dot]com>
+	- Added aura height/width options.
+	auraSize = { x, y }
+	
+	Signed-off-by: Apoco <Apoco]at[Nurfed[dot]com>
+	- Fixed issues with default uf savedvars.
+	Signed-off-by: Apoco <Apoco]at[Nurfed[dot]com>
+	- Layout fixes for position, scale, etc
+	fixed casting bar bug
+	- Icon Fix.  Removed prev fixes.
+	Signed-off-by: Apoco <Apoco]at[Nurfed[dot]com>
+	- Changed check location for unit exists to a spot where it will not be called every .01 seconds.
+	Signed-off-by: Apoco <Apoco]at[Nurfed[dot]com>
+	- Fixes for Cindered.  Added in Unit Model support.
+	Signed-off-by: Apoco <Apoco]at[Nurfed[dot]com>
+	- I hate GIT!
+	Signed-off-by: Apoco <Apoco]at[Nurfed[dot]com>
+	
+	Signed-off-by: Apoco <Apoco]at[Nurfed[dot]com>
+	- Added Layout Support.
+	Signed-off-by: Apoco <Apoco]at[Nurfed[dot]com>
+	-- ooppss.
+	- Added Layout Support.
+	Signed-off-by: Apoco <Apoco]at[Nurfed[dot]com>
+	- fix nil tbl bug
+	Signed-off-by: Apoco <Apoco]at[Nurfed[dot]com>
+	- UnitFrames update
+	Signed-off-by: Apoco <Apoco]at[Nurfed[dot]com>
+	- Removed debug code.
+	Signed-off-by: Apoco <Apoco]at[Nurfed[dot]com>
+	- Color Opt Init
+	- test
+	Signed-off-by: Apoco <Apoco]at[Nurfed[dot]com>
+	- N2UF:
+	Add:  Party Support
+	Add:  Pet Frame
+	Fix:  Ticket#1, Cast bar sticking on target change
+	Fix:  Group Number
+	Tweak: Focus Frame
+	
+	Signed-off-by: Apoco <Apoco]at[Nurfed[dot]com>
+	- Nurfed2_UnitFrames: Initial Commit.  There are not any options yet, and you cannot import custom layouts.  Layout and options will be later this weekend/next week.  Until then change the default template.  ./n2ufreset will reset the unit frames.
+	Signed-off-by: Apoco <Apoco]at[Nurfed[dot]com>

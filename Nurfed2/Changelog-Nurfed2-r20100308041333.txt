@@ -1,0 +1,16 @@
+unknown:
+	- Nothing new for you guys.
+	Signed-off-by:  <>
+	- Type and type both work now
+	- Fixed init login error.
+	Signed-off-by:  <>
+	- Core Update!  ZOMG (toc update and one letter changed.  b to B)
+	Signed-off-by:  <>
+	- Added hide cast bar suppert
+	Signed-off-by:  <Lord Jesus God Almighty (Chiaobama)>
+	- Multispec fixed for teh last time I hope.  DIE CHEWY!
+	Signed-off-by:  <Apoco>
+	- stuff
+	- Version Support Added, Fixed bindings not changing when you change specs.
+	- Initial Commit
+	Signed-off-by:  <>

@@ -1,0 +1,14 @@
+## Interface: 30300
+## Title: .|cff3300D2NurfedUI|r|cff3355FD 2|r |cffD23355-Action Bars-|r
+## Author: Apoco, Tivoli  http://www.nurfed.com
+## SavedVariablesPerCharacter:
+## Dependencies: Nurfed2
+## LoadOnDemand: 1
+## OptionalDeps: ButtonFacade, LibButtonFacade
+## X-Website: http://www.nurfedui.net
+## X-Curse-Packaged-Version: r20100311005022
+## X-Curse-Project-Name: Nurfed2_ActionBars
+## X-Curse-Project-ID: nurfed2_actionbars
+## X-Curse-Repository-ID: wow/nurfed2_actionbars/mainline
+
+ActionBars.lua

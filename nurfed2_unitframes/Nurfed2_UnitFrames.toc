@@ -1,0 +1,14 @@
+## Interface: 30300
+## Title: .|cff3300D2NurfedUI|r|cff3355FD 2|r |cffD23355-Unit Frames-
+## Author: Apoco, Tivoli  http://www.nurfed.com
+## SavedVariablesPerCharacter:
+## LoadOnDemand: 1
+## Dependencies: Nurfed2
+## OptionalDeps:
+## X-Website: http://www.nurfedui.net
+## X-Curse-Packaged-Version: r20100412013329
+## X-Curse-Project-Name: Nurfed2_UnitFrames
+## X-Curse-Project-ID: nurfed2_unitframes
+## X-Curse-Repository-ID: wow/nurfed2_unitframes/mainline
+
+UnitFrames.lua
